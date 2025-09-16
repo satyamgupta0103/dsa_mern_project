@@ -9,7 +9,7 @@ export default function Profile() {
       <p>Email: {email}</p>
       <hr />
       <footer style={{ textAlign: "center", marginTop: 20 }}>
-        © 2024 Dashboard. All Rights Reserved.
+        © 2025 Dashboard. All Rights Reserved.
       </footer>
     </div>
   );
